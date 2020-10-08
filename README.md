@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+This is an CLI application which generates issues tables form.It was built when I was covering Dave Thomas' book Programming Elixir
 
 ## Installation
 
